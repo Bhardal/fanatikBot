@@ -1,0 +1,62 @@
+{
+    "0001": [
+        "emoji personalis\u00e9",
+        "Vous permet d'ajouter un emoji customis\u00e9 de votre choix sur le serveur FANATIK",
+        100,
+        "https://imgur.com/El9XyHS.png"
+    ],
+    "0002": [
+        "pseudo personalis\u00e9",
+        "Vous permet de changer votre pseudo sur ce serveur pour un nouveau de votre choix",
+        500,
+        "https://i.imgur.com/knthQ9M.png"
+    ],
+    "0003": [
+        "coaching rl",
+        "Une heure de coaching sur Rocket League par FunX",
+        1000,
+        "https://i.imgur.com/ApAChSI.png"
+    ],
+    "0004": [
+        "fragment",
+        "Un fragment. Ils serviront \u00e0 acheter des v\u00eatements et goodies FANATIK. Plus d'informations dans une futur update FNTK",
+        5000,
+        "https://i.imgur.com/fXWF8uN.png"
+    ],
+    "0005": [
+        "banana",
+        "KRIS !",
+        50,
+        "https://i.imgur.com/MmIIIix.png"
+    ],
+    "0006": [
+        "overwatch",
+        "Le c\u00e9l\u00e8bre jeu de tir \u00e0 la premi\u00e8re personne (FPS) de Blizzard. Il est cependant n\u00e9cessaire de poss\u00e9der un compte Battle.net (cr\u00e9ation de compte gratuite) afin de pouvoir obtenir cet item",
+        12500,
+        "https://i.imgur.com/OGfIcSt.png"
+    ],
+    "0007": [
+        "discord nitro",
+        "Un mois de discord nitro sur votre compte. Discord nitro vous permet par exemple d'utiliser des emojis cutomis\u00e9s o\u00f9 vous le souhaitez, d'avoir une photo de profil anim\u00e9e, des envois de fichiers plus important, et bien d'autres avantages",
+        11500,
+        "https://i.imgur.com/TIawm1k.png"
+    ],
+    "0008": [
+        "cape optifine",
+        "Une cape customisable qui s'ajoute sur votre skin minecraft. Attention elle ne sera visible que par les utilisateurs d'Optifine",
+        10000,
+        "https://i.imgur.com/gILIUtW.png"
+    ],
+    "0009": [
+        "carte lol",
+        "Une carte League of Legends de Riot Points \u00e0 valeur de 10\u20ac afin de s'acheter de beaux skins sur la boutique du jeu !",
+        11000,
+        "https://imgur.com/ftjohWV.png"
+    ],
+    "0010": [
+        "carte steam",
+        "Une carte Steam d'une valeur de 10\u20ac afin de s'acheter de nouveaux jeux ou DLCs",
+        11000,
+        "https://imgur.com/rTPTdvb.png"
+    ]
+}

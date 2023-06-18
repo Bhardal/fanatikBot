@@ -1,0 +1,1 @@
+An open-source, free Discord Multipurpose Bot built using python and Discord API
